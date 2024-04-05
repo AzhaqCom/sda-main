@@ -1,0 +1,105 @@
+.card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-content {
+    border: 2px solid #3a7bd5;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    width: 94%;
+    border-radius: 10px;
+}
+
+.name-perso {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.point-perso {
+    font-size: 12px;
+    font-style: italic;
+}
+
+select {
+    font-size: 16px;
+    padding: 10px;
+    max-width: 100%;
+}
+
+button.btn-add {
+    background: transparent;
+    color: #3a7bd5;
+    border: 1px solid #3a7bd5;
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 8px;
+}
+
+.container-servant {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.servant{
+    display: flex;
+    flex-direction: column;
+}
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.pouvoir-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr .5fr;
+    justify-items: center;
+    border: 1px solid white;
+}
+
+.pouvoir-container .pouvoir-name {
+    color: #3a7bd5;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.regle-perso {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnmod {
+    margin: 0 14px;
+    padding: 0px 10px;
+    border: 0;
+    background: #3a7bd5;
+    color: white;
+    font-size: 26px;
+}
+
+@media screen and (min-width: 768px) {
+    .grid2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 20px 0;
+        gap: 20px;
+    }
+
+    .pouvoir-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center;
+    }
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "nom": "Lumière Aveuglante",
+    "portee": "12'' ",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir cible le lanceur. Tant que ce pouvoir est en jeu, toutes les attaques de Tir dirigées vers le lanceur ou une figurine alliée à moins de 6\" de lui ne peuvent les toucher que sur un 6. De plus, toute la zone à 12\" autour du lanceur est éclairée comme s'il faisait jour (dans un souterrain par exemple).",
+    "effetCanalise": "La durée devient Épuisement"
+  },
+  {
+    "nom": "Immobilisation",
+    "portee": "12''",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir affecte une figurine ennemie à portée. Tant que ce pouvoir est en jeu, la figurine ciblée ne peut plus bouger (sauf pour reculer si elle perd le combat), tirer, lancer un Pouvoir Magique, déclarer des Actions Héroïques, émettre son « Tenez-bon ! », utiliser des compétences actives ni porter ses coups si elle gagne un combat.",
+    "effetCanalise": "De plus, tant que ce pouvoir est en jeu, la cible aura ses valeurs d'Attaque et de Combat divisées par deux (arrondi au supérieur)."
+  },
+  {
+    "nom": "Aura de Terreur",
+    "portee": "12''",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir affecte le lanceur. Tant que ce pouvoir est en jeu, le lanceur cause la Terreur",
+    "effetCanalise": "Les figurines souhaitant charger le lanceur alors que le pouvoir est en jeu doivent effectuer leur test de Bravoure en jetant 3D6 et en retirant le plus haut résultat."
+  },
+  {
+    "nom": "Injonction",
+    "portee": "12''",
+    "valeurLancement": "3+",
+    "effet": "Ce pouvoir affecte une figurine ennemie à portée. Le lanceur peut déplacer la figurine ciblée de la moitié de son mouvement. Il peut le faire même si la figurine s'est déjà déplacée pendant le tour. Elle ne peut pas être forcée à sauter, escalader, mettre pied à terre ou se coucher à terre mais elle peut aller en terrain difficile et même charger une figurine ennemie. Aucun test de Bravoure n'est requis pour charger une figurine terrifiante. Il peut même forcer la victime (si elle n'est pas engagée au combat) à lâcher un objet (mais pas l'équipement) qu'elle portait ou bien à mettre l'Anneau unique (si elle l'a). Dès que la figurine a fini son mouvement, elle ne peut plus se déplacer du tour, quelle qu'en soit la raison. Enfin, la cible souffre des effets du Pouvoir Magique Immobilisation/Paralysie.",
+    "effetCanalise": "De plus, tant que ce pouvoir est en jeu, la cible aura ses valeurs d'Attaque et de Combat divisées par deux et ne pourra pas porter ses coups si elle gagne le combat."
+  },
+  {
+    "nom": "Esprit Fortifié",
+    "portee": "12''",
+    "valeurLancement": "3+",
+    "effet": "Ce pouvoir peut cibler une figurine alliée à portée. Tant que les effets sont en jeu, la cible peut jeter 2 dés supplémentaires pour résister à la Magie. Ces deux dés ne réduisent pas la Volonté de la cible et peuvent même être jetés si la cible n'a pas/plus de Volonté ou choisit de ne pas utiliser de la Volonté de sa réserve.",
+    "effetCanalise": "La cible ajoute 1 à son meilleur dé pour résister au sort."
+  },
+  {
+    "nom": "Volonté de Fer",
+    "portee": "12''",
+    "valeurLancement": "3+",
+    "effet": "Ce pouvoir affecte une figurine alliée à portée. Le lanceur peut utiliser ce sort pour donner un point de Volonté à un Héros allié à portée. La Volonté de la cible peut être augmentée au-dessus de son niveau initial et ce pouvoir peut être utilisé même si la cible n'avait pas de point de Volonté au début de la partie. Si la cible est une figurine de Cavalerie, alors le lanceur doit choisir qui entre le cavalier et la monture gagne le point de Volonté.",
+    "effetCanalise": "La cible gagne 1D3 points de Volonté."
+  },
+  {
+    "nom": "Bannissement",
+    "portee": "12''",
+    "valeurLancement": "4+",
+    "effet": "Ce pouvoir cible un ennemi à portée. Il n'affecte que les Esprits. La cible perd automatiquement 1 PV, comme si elle avait été blessée au combat. Si la cible est une figurine de Cavalerie, le lanceur doit choisir qui entre le cavalier ou la monture est visé.",
+    "effetCanalise": "La cible perd 1D3 PV au lieu de 1."
+  },
+  {
+    "nom": "Impact Magique",
+    "portee": "12''",
+    "valeurLancement": "4+",
+    "effet": "Ce pouvoir cible une figurine ennemie à portée. La cible est projetée de 1D6\" à l'opposé du lanceur et est jetée à terre. Si la cible rentre en contact avec un autre figurine qui a une Force égale ou inférieure à 5, elle s'arrête et les deux figurines sont jetées à terre. Si la cible ou une des figurines qui est jetée à terre était engagée en combat, alors toutes les figurines participant à ce combat sont également jetées à terre. La cible subit une touche de Force 5 et toute figurine qui est jetée à terre subit une touche de Force 3. Les figurines de Cavalerie sont considérées comme ayant fait un Vol plané sur le tableau de chute de Cavalier. De plus, si la cible rentre en contact avec un décor comme un obstacle (une haie, une maison ou des rochers) ou une figurine avec une Force de 6 ou plus, elle s'arrête immédiatement et est jetée à terre. Cependant la figurine de Force 6 n'est pas jetée à terre. La cible et la figurine de Force 6 subissent une touche de Force 3. Veuillez noter qu'une figurine Paralysée/Contrainte ou toute autre figurine immobilisée sera tout de même projetée par ce pouvoir.",
+    "effetCanalise": "La touche initiale sur la cible est désormais de Force 6, et les autres figurines subissent une touche de Force 4."
+  },
+  {
+    "nom": "Votre Bâton est Rompu !",
+    "portee": "12''",
+    "valeurLancement": "4+",
+    "effet": "Ce pouvoir affecte une figurine ennemie à portée qui porte un Bâton. Ce pouvoir détruit le Bâton de la figurine ciblée. Tous les avantages associés au Bâton sont immédiatement perdus (incluant le bonus de l'arme bâtarde).",
+    "effetCanalise": "La cible subit en plus une touche de Force 7."
+  },
+  {
+    "nom": "Lames Enchantées",
+    "portee": "6\"",
+    "valeurLancement": "2+",
+    "effet": "Le pouvoir affecte une figurine alliée à portée. Pendant la phase de Combat, la cible peut relancer tous ses jets pour Blesser ratés.",
+    "effetCanalise": "De plus, la cible peut ajouter 1 à tous ses jets pour Blesser. Cela peut se cumuler avec le bonus de l'arme à deux mains si elle en porte une."
+  },
+  {
+    "nom": "Aura de Vaillance",
+    "portee": "°",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir cible le lanceur. Tant que ce pouvoir est en jeu, le lanceur et toutes les figurines alliées à moins de 6\" du lanceur passent automatiquement tous les tests de Bravoure qu'ils sont amenés à faire",
+    "effetCanalise": "La portée du pouvoir passe à 12\"."
+  },
+  {
+    "nom": "Bénédiction des Valar",
+    "portee": "12\"",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir affecte une figurine alliée à portée. Elle regagne un point de Destin qui a été dépensé plus tôt dans la partie. Cela ne peut pas amener les points de Destin de la figurine au-dessus de son niveau originel. Si la cible est une figurine de Cavalerie, alors le lanceur doit choisir qui entre le cavalier et la monture regagne un point de Destin.",
+    "effetCanalise": "La cible regagne 1D3 points de Destin."
+  },
+  {
+    "nom": "Appel aux Vents",
+    "portee": "12\"",
+    "valeurLancement": "2+",
+    "effet": "Ce pouvoir cible une figurine ennemie à portée. La cible est repoussée de 1D6\" à l'opposé du magicien en ligne droite. Si la figurine arrive au contact d'une autre figurine ou d'un décor comme une barrière, une maison ou des rochers, alors la figurine s'arrêtera à 1\" de la figurine ou du décor. Dans tous les cas, la cible est jetée à terre. Si la cible est engagée au combat, les effets sont les mêmes que décrits au-dessus, mais toutes les autres figurines impliquées dans le combat sont également jetées à terre.Ce pouvoir cible une figurine ennemie à portée. La cible est repoussée de 1D6\" à l'opposé du magicien en ligne droite. Si la figurine arrive au contact d'une autre figurine ou d'un décor comme une barrière, une maison ou des rochers, alors la figurine s'arrêtera à 1\" de la figurine ou du décor. Dans tous les cas, la cible est jetée à terre. Si la cible est engagée au combat, les effets sont les mêmes que décrits au-dessus, mais toutes les autres figurines impliquées dans le combat sont également jetées à terre.",
+    "effetCanalise": "La cible est repoussée de 2D6\"."
+  },
+  {
+    "nom": "L'Hymne d'Elbereth",
+    "portee": "12\"",
+    "effet": "Ce chant magnifique affermit la détermination de la cible. La figurine alliée ciblée réussit automatiquement tous les tests de Bravoure qu'elle est amenée à passer pour le reste du tour."
+  
+  },
+  {
+    "nom": "Eldamar Madrigal",
+    "portee": "12\"",
+    "effet": "La figurine ennemie ciblée doit immédiatement faire un test de Bravoure. Si elle réussit, rien ne se passe. Sinon, elle passe pour la durée du tour sous le contrôle du joueur adverse qui peut la déplacer de son mouvement maximum, même si elle s'est déjà déplacée ce tour.\nNéanmoins, le joueur ne peut pas la faire entrer dans une zone de contrôle ennemie, la faire descendre de monture, s'allonger, ou toute autre action qui risquerait de la blesser (comme une escalade), ni aucune action qui nécessiterait un jet de dé (comme un test de Saut). La figurine affectée ne peut pas se déplacer plus tard dans le tour."
+  
+  },
+  {
+    "nom": "Le Lai de Gondolin",
+    "portee": "°",
+    "effet": "Ces vers emplis de chagrin évoquent la puissante cité Elfe de Gondolin – un nom qui terrorise instantanément n'importe quelle créature maléfique. Une Sentinelle qui chante ce poème cause la Terreur jusqu'à la fin du tour."
+  
+  }
+]

@@ -1,0 +1,57 @@
+[
+    
+    {
+        "nom": "Canalisation Héroïque",
+        "phase": "mouvement",
+        "effet": "Un Héros qui déclare une Canalisation Héroïque peut utiliser la version canalisée de n'importe quel pouvoir magique qu'il peut lancer lors de ce tour."
+    },{
+        "nom": "Élan Héroïque",
+        "phase": "mouvement",
+        "effet": "Un Élan Héroïque donne l'opportunité au Héros de se déplacer avant les autres figurines - en court-circuitant ainsi l'ordre d'initiative. \n\nLe Héros peut bouger, sauter, escalader, charger et même utiliser sa règle « Tenez-bon ! » de manière habituelle. \n\nCette Action Héroïque peut se montrer particulièrement utile, et il arrive souvent que le joueur ayant l'initiative déclare lui même un Élan Héroïque après que le joueur n'ayant pas l'initiative en ait déclaré un, de manière à avoir une chance de garder l'initiative. \n\nSi un Héros déclare qu'il va tenter un Élan Héroïque mais qu'il est chargé avant de le faire, l'Élan Héroïque est annulé et le point de puissance perdu."
+    },
+    {
+        "nom": "Marche Héroïque",
+        "phase": "mouvement",
+        "effet": "Une Marche Héroïque permet à un Héros de couvrir une plus grande distance en ignorant le chaos autour de lui pour atteindre une position.\n Un Héros qui déclare une Marche Héroïque ajoute 3\" à sa distance de mouvement s'il a le mot-clef Infanterie ou 5\" supplémentaires s'il a le mot-clef Cavalerie ou la règle spéciale Vol. \n\nUne figurine qui utilise une Marche Héroïque ne peut pas charger pendant son mouvement. \nSi un Héros déclare qu'il va tenter une Marche Héroïque mais qu'il est chargé avant de le faire, la Marche Héroïque est annulée et le point de puissance perdu."
+    },
+    {
+        "nom": "Résistance Héroïque",
+        "phase": "mouvement",
+        "effet": "Contrairement aux autres Actions Héroïques, lorsqu'un Héros déclare une Résistance Héroïque, ses effets sont immédiats. \nLes figurines alliées qui sont à moins de 6\" du Héros qui a déclaré la Résistance Héroïque, incluant le Héros, reçoivent un dé additionnel gratuit pour résister à un Pouvoir Magique pour le reste du tour. \n\nVeuillez noter que dans le cas des Guerriers et des Héros avec zéro point de volonté, cette Action Héroïque leur accorde tout de même la possibilité de résister à la magie, avec un dé. \n\nSi une figurine qui a la règle spéciale Résistant à la Magie lance ou est incluse dans l'aire d'une Résistance Héroïque, elle peut lancer deux dés gratuits pour résister à un pouvoir magique (un pour la règle spéciale et un pour la Résistance Héroïque). \n\nUn Héros qui déclare une Résistance Héroïque ne peut pas se déplacer lors de ce tour, cependant il peut faire toutes les autres actions qu'il pourrait faire normalement, comme lancer un pouvoir magique ou tirer."
+    },
+    {
+        "nom": "Précision Héroïque",
+        "phase": "tir",
+        "effet": "La Précision Héroïque permet à un Héros de relancer un jet raté pour les tests sur la trajectoire pour tirer lors de cette phase de tir. Un Héros ne peut pas utiliser la Précision Héroïque s'il est engagé au combat. Un Héros n'a pas besoin d'une arme de tir pour la déclarer. \n\nSi un Héros qui déclare une Précision Héroïque le souhaite, il peut crier « En joue ! » aux alliés à moins de 6\" de lui, leur permettant ainsi de relancer leurs jets ratés pour les tests sur la Trajectoire pour tirer lors de ce tour. \nLa figurine qui déclare une Précision Héroïque et ses alliés à portée lorsqu'elle crie « En joue ! » n'ont pas besoin de cibler la même figurine ennemie - ils peuvent choisir n'importe quelle cible viable."
+    },
+    {
+        "nom": "tir Héroïque",
+        "phase": "tir",
+        "effet": "Le tir Héroïque permet au Héros de tirer avant les autres figurines. Un Héros ne peut déclarer un tir Héroïque s'il est engagé au combat. \n\nUn Héros déclarant un tir Héroïque peut crier « Feu ! », permettant aux figurines alliées à moins de 6'' de lui de tirer avec lui. Un Héros n'a pas besoin d'avoir une arme de tir pour crier « Feu ! » et n'a pas besoin de tirer en premier. Les figurines affectées n'ont pas besoin de tirer sur la même cible que le Héros - elles peuvent viser n'importe quelle cible viable. Toute figurine à portée du tir Héroïque mais qui ne tire pas ne pourra plus le faire du tout lors de ce tour."
+    },
+    {
+        "nom": "Combat Héroïque",
+        "phase": "combat",
+        "effet": "Quand un Héros déclare un Combat Héroïque, le combat où le Héros est impliqué est résolu en premier. De plus, si tous les ennemis impliqués dans le combat sont tués, le Héros et toutes les figurines alliées engagées dans le combat (donc à l'exclusion des supports avec lance ou pique) peuvent se déplacer une nouvelle fois avant de reprendre le cours normal de la phase de combat. Ce mouvement supplémentaire peut inclure une charge sur des nouveaux ennemis si vous le souhaitez, et dans ce cas, le combat sera résolu selon l'ordre habituel des combats. \n\nUne figurine peut bénéficier d'un seul et unique Combat Héroïque par tour, donc si une figurine qui était impliquée dans un Combat Héroïque se déplace dans un autre Combat Héroïque, elle ne pourra pas se redéplacer à nouveau si le Combat Héroïque est réussi.\n\n Si une des figurines qui était impliquée dans le Combat Héroïque charge des nouveaux ennemis, la division des combats peut être modifiée. Dès que tous les Combats Héroïques ont été résolus, reformez tous les combats au choix du joueur ayant l'initiative."
+    },
+    {
+        "nom": "Défense Héroïque",
+        "phase": "combat",
+        "effet": "Un Héros qui déclare une Défense Héroïque subit une blessure uniquement sur un jet qui donne un 6 naturel lors de cette phase de Combat, en ignorant tout modificateur ou effet d'attaque brutale. \n\nSi ce Héros ne pouvait se faire blesser que par un 6/4+, 6/5+ ou 6/6, alors les deux jets de dés doivent être des jets naturels. Veuillez noter que la monture du Héros n'est pas affectée par la Défense Héroïque."
+    },
+    {
+        "nom": "Défi Héroïque",
+        "phase": "combat",
+        "effet": "Un Héros qui est en contact socle à socle avec un Héros ennemi de même rang ou d'un rang supérieur peut déclarer un Défi Héroïque. \nSi le Héros ennemi accepte le Défi Héroïque, toutes les autres figurines qui sont engagées dans ce combat, en incluant les soutiens, ne jettent pas de dé pour le jet de Duel, n'apportent pas leur valeur de Combat au combat et ne portent pas de coup, si leur camp gagne. \n\nA partir de ce point, les deux Héros impliqués dans le Défi Héroïque doivent se charger mutuellement à chaque tour, et ce jusqu'au moment où un des deux Héros est tué, même si cela ne les force pas à déclarer un Élan Héroïque ni à dépenser des points de puissance ou de volonté pour réussir un test de Bravoure et parvenir à charger dans ce cas. \n\nLes autres figurines ne peuvent pas charger les deux Héros. Quel que soit le Héros qui tue l'autre (il doit infliger le coup fatal), il regagne 1D3 points de puissance, et cela peut l'emmener au-delà de son niveau de départ. \n\nSi le Défi Héroïque est décliné, alors toutes les Actions Héroïques déclarées par le Héros qui a décliné n'affectent plus les figurines amies, jusqu'à ce que le Héros qui a lancé le Défi soit tué. \n\nDe plus, si le Défi est rejeté, le Héros qui l'a décliné ne peut plus utiliser son « Tenez-Bon ! » jusqu'à la fin de la partie."
+    },
+    {
+        "nom": "Force Héroïque",
+        "phase": "combat",
+        "effet": "Un Héros qui déclare une Force Héroïque rajoute 1D3 à sa Force pour la durée de la phase de Combat. \nCela ne peut amener la valeur de Force au-delà de 10. Veuillez noter que cet effet s'applique avant les autres modificateurs, comme le Pouvoir Magique Affaiblissement."
+    },
+    {
+        "nom": "Frappe Héroïque",
+        "phase": "combat",
+        "effet": "Un Héros qui déclare une Frappe Héroïque rajoute 1D6 à sa valeur de Combat pour la durée de cette phase de combat. Ce jet de dé se fait au début du combat du Héros et ses effets durent jusqu'à la fin du tour. Cela ne peut pas amener la valeur de Combat au-delà de 10. \n\nVeuillez noter que cet effet est appliqué avant que tous les autres effets soient pris en compte : \npar exemple un Héros qui est engagé en combat contre une Nuée de Chauves-Souris va augmenter son combat d'1D6 puis ensuite le diviser par deux à cause de la règle spéciale Nuée Aveuglante de la Nuée de Chauves-Souris."
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "nom": "Cavalier Expert",
+        "effet": "Quand il est sur sa monture, le Cavalier Expert peut relancer son dé lors des tests de Franchissement, Nage et Chute de Cavalier. Il a aussi le droit de ramasser un Objet Léger sans mettre pied à terre. De plus, il bénéficie du +1 en Défense d'un Bouclier même s'il porte déjà un Arc. Il perd ce bonus s'il n'est plus monté.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Précision Chirurgicale",
+        "effet": "Elfhelm peut relancer les jets pour Toucher, pour Blesser et Sur La Trajectoire quand il utilise un Javelot. De plus, Elfhelm ne souffre jamais de la pénalité de -1 pour tirer après s'être déplacé quand il utilise un Javelot.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Seigneur des Chevaux",
+        "effet": "Cette figurine peut dépenser ses points de Destin pour annuler les Blessures subies par sa monture, comme si elle avait elle-même subi ces coups.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Aragorn, Roi Elessar",
+        "effet": "Vous ne pouvez pas aligner Aragorn, Roi Elessar si votre armée contient également Boromir, Capitaine de la Tour Blanche, Boromir du Gondor ou Denethor, Intendant du Gondor",
+        "etat": "passif"
+    },
+    {
+        "nom": "Je vous ordonne de tenir, Hommes de l'Ouest",
+        "effet": "Toutes les figurines amies à 6\" d'Aragorn comptent comme étant à portée d'une Bannière.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Héros Mythique",
+        "effet": "Une telle figurine peut dépenser 1 point de Puissance gratuit par tour, sans avoir à puiser dans sa réserve.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Andùril la Flamme de l'Ouest",
+        "effet": "Andùril est une lame de facture elfique qui compte comme une épée bâtarde. De plus, quand il porte ses Coups, Aragorn blesse toujours son adversaire au pire sur 4+, quelque soit la valeur de Défense de celui-ci. \n\nSi Aragorn utilise Anduril à deux mains, il blesse alors son adversaire sur 3+.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Habilité d'un Seigneur des Lames",
+        "effet": "Si un Chevalier de la Tour Blanche obtient un 6 naturel à un jet de Duel, la pénalité d'arme à deux mains ne s'applique pas",
+        "etat": "actif"
+    },
+    {
+        "nom": "Y a-t-il ici un capitaine assez courageux pour exécuter les volontés de son seigneur ?",
+        "effet": "Si Denethor fait partie de la même armée que Faramir, alors Faramir réussira automatiquement tous ses tests de Bravoure tant que Denethor sera en vie et sur le champ de bataille. Cependant, tant que Denethor est sur le champ de bataille, Faramir doit toujours charger un ennemi s'il le peut.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Epée Blanche du Gondor",
+        "effet": "Une Épée Blanche du Gondor est une épée à deux mains. De plus, les attaques faites avec cette arme suivent la règle spéciale Coup Puissant.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Pied Léger",
+        "effet": "Une figurine au Pied Léger, disposant aussi de la Règle Spéciale Créature des Bois, permet à sa monture de devenir une Créature des Bois à son tour. Toute la figurine de Cavalerie traite ainsi les étendues forestières comme des terrains dégagés pour ce qui est du Mouvement.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Bâton de pouvoir",
+        "effet": "Un Bâton de pouvoir est une arme bâtarde qui permet d'utiliser le coup spécial Matraquage comme tous les autres Bâtons. De plus, le porteur peut dépenser un point de Volonté gratuit chaque tour, sans réduire son stock de points de Volonté.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Lance d'Elfe Sylvestre",
+        "effet": "En plus des règles normales des lances, une figurine portant une Lance d'Elfe Sylvestre peut également parer les coups, comme si elle se Protégeait derrière un bouclier.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Dagues de jet",
+        "effet": "Une figurine avec une Arme de Jet peut la lancer une fois par tour pendant la phase de Tir même si elle s'est déplacée de plus de la moitié de son Mouvement. Une figurine ne peut pas combattre avec ses Armes de Jet pendant la phase de Combat.\n\nUne Arme de Jet peut être également utilisée lorsque son porteur charge au combat. Le joueur déplace sa figurine comme si elle chargeait l'ennemi, mais avant de la mettre au contact socle à socle, elle s'arrête à 1\" de son adversaire.\n\nElle peut alors jeter son Arme de Jet sur la cible qu'elle charge. Ce tir est résolu en utilisant les règles des tirs même si cela se passe pendant la phase de Mouvement. Les Armes de Jet lancées pendant la charge ne souffrent pas du malus de -1 pour s'être déplacé dans le même tour.\n\nSi la cible n'est pas tuée, la figurine qui a jeté son Arme de Jet doit la charger. Si la cible est tuée, la figurine qui a jeté son Arme de Jet peut finir son Mouvement comme elle le souhaite – s'arrêter, charger une autre figurine, ou autre.\n\nLes Armes de Jet ne comptent pas dans la Limite d'Arcs de l'armée.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Glamdring",
+        "effet": "Glamdring est une de facture elfique (épée bâtarde), elle peut être utilisée comme une épée simple ou comme une épée à deux mains. De plus, Glamdring augmente la Force de Gandalf de 1 quand il l'utilise.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Résistant à la Magie",
+        "effet": "À chaque fois que cette figurine est ciblée par un Pouvoir Magique, elle a le droit à un dé additionnel bonus pour son jet de Résistance au sort, et ce même s'il elle n'a pas/plus de point de Volonté en réserve ou qu'elle décide de ne pas en dépenser.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Lame de facture Elfique",
+        "effet": "Les figurines utilisant des armes de facture elfique ont plus de chance de remporter le jet pour départager une égalité dans un combat. Si c'est une figurine du Bien, elle remportera sur un score qui donne 3-6 au lieu de 4-6.\n\n",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Lame de facture Elfique (épée bâtarde)",
+        "effet": "Les figurines utilisant des armes de facture elfique ont plus de chance de remporter le jet pour départager une égalité dans un combat. Si c'est une figurine du Bien, elle remportera sur un score qui donne 3-6 au lieu de 4-6.\n\nUne arme bâtarde peut être utilisée soit comme une arme à une main soit comme une arme à deux mains. Lorsqu'une figurine équipée d'une arme bâtarde se bat au corps à corps, le joueur la contrôlant doit décider au début du combat dans quel style la figurine va combattre.\n\nUne figurine utilisant une arme à deux mains au combat ne peut pas utiliser un Bouclier en même temps (elle n'a pas assez de mains !), mais elle peut porter d'autres objets (sur son dos ou dans un sac).\nUne figurine utilisant une arme à deux mains au corps à corps souffre d'un malus de -1 au jet de Duel - mais lorsqu'elle porte ses coups pour Blesser avec une arme à deux mains, elle ajoute +1 à ses jets. Par conséquent, un jet qui donne 3 fera 4 et ainsi de suite. Veuillez noter que dans le cas où deux jets sont requis pour Blesser (comme 6/4+ par exemple), le bonus s'applique aux deux jets (5/3+ pour notre exemple).",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Gardes Galadhrim *",
+        "effet": "Si votre armée inclut Celeborn, vous pouvez améliorer chaque Guerrier Galadhrim de sa troupe en Garde Galadhrim, pour 1pt supplémentaire par figurine. Les Gardes Galadhrim ont une Bravoure de 6.",
+        "etat": "amélioration"
+    },
+    {
+        "nom": "La Dame de la Lothlorien",
+        "effet": "Galadriel peut dépenser un point de Volonté chaque tour sans réduire sa propre réserve de Volonté.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Pouvoirs de la Nature",
+        "effet": "Si, lorsqu'il tente de lancer un sort, le Maître des Orages obtient un 6 naturel sur 1 ou plusieurs dés, alors les points de Volonté utilisés pour lancer le sort sont récupérés par le Maître des Orages après que les effets du sort aient été réalisés.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Miroir de Galadriel",
+        "effet": "Le miroir est un Objet Lourd avec une Défense de 8 et 3PV.\nIl est déployé à moins de 6\" de Galadriel au début de la partie.\nPour les scénarios demandant aux armées d'entrer sur la table en cours de partie, n'importe quel membre de la troupe de Galadriel peut porter le Miroir sur la table.\nA la fin de chaque tour, un seul Héros allié à moins de 6\" du Miroir peut restaurer tous ses points de Destin.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Alliés jusqu'à la Fin",
+        "effet": "Haldir compte comme étant à portée d'une Bannière, et réussit automatiquement tous ses tests de Bravoure, s'il est à moins de 12\" d'Aragorn ou de Théoden.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Coup de Grâce",
+        "effet": "Si Haldir est tué dans un combat, il peut immédiatement porter une touche de Force 4 à chaque figurine ennemie qui était engagée avec lui dans le combat fatal.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Archer Expert",
+        "effet": "Une figurine dotée de cette Règle Spéciale peut faire feu deux fois pendant la phase de Tir. Ces tirs sont résolus l'un après l'autre, ce qui veut dire que le tireur a le droit de choisir deux cibles distinctes, ou une seule qu'il visera à deux reprises si un trait ne suffit pas à l'abattre.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Narya",
+        "effet": "Gandalf peut relancer ses jets de Destin ratés.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Terreur",
+        "effet": "Quand une figurine souhaite charger un adversaire qui cause la Terreur elle doit d'abord effectuer un test de Bravoure. Si le test est réussi, la charge se passe normalement. Si le test est raté, elle n'a pas le droit de charger et reste figée sur place pour le reste du tour. Parfois, la Terreur est dirigée contre un certain type d'ennemi.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Seigneur de l'Ouest",
+        "effet": "Une figurine qui possède cette règle spéciale peut relancer 1D6 lorsqu'elle tente de remporter un combat.\nDe plus, elle peut également relancer 1D6 lorsqu'elle porte ses coups après avoir remporté le combat.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Seigneur de la Lorien",
+        "effet": "La règle « Tenez Bon ! » de Celeborn a une portée de 12\" au lieu de 6\" .",
+        "etat": "actif"
+    },
+    {
+        "nom": "Combattant Résolu",
+        "effet": "Ingold et tous les Guerriers du Gondor alliés à moins de 3\" de lui ne sont pas repoussés s'ils perdent un combat - ce sont leurs adversaires qui reculent !",
+        "etat": "passif"
+    },
+    {
+        "nom": "Défendez la Cité Blanche !",
+        "effet": "Irolas peut se protéger derrière un Bouclier même s'il n'en porte pas. De plus, lorsqu'il le fait et qu'il gagne le combat, il peut porter un coup de Force 4 contre l'un des ennemis engagé dans le combat.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Brave parmis les Braves",
+        "effet": "Quand il charge un ennemi qui cause la Terreur, Cirion reçoit un bonus de +2 à sa valeur de Bravoure. Il reçoit le même Bonus lorsqu'une figurine tente de le frapper avec la Règle Spéciale Les Lames des Morts.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Chants d'Oiseaux",
+        "effet": "Mablung et tout les Rangers du Gondor à moins de 6\" de lui (y compris Faramir, Madril, Damrod et Anborn) bénéficient de la Règle Spéciale Discrétion. De plus, les figurines ennemies prises pour cible par un tir de Mablung ou de tout Ranger du Gondor à moins de 6\" de lui (y compris Faramir, Madril, Damrod et Anborn) ne bénéficient plus de la Règle Spéciale Discrétion pour la durée de l'attaque au tir.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Tir rapide",
+        "effet": "Une Baliste à répétition tire 1D6 fois chaque tour au lieu d'une seule fois. Chaque tir est résolu de la même manière qu'un tir classique plutôt que d'un jet d'engin de siège. Il n'y a donc pas de jets de déviation. Résolvez chaque tir individuellement, jetez un dé pour toucher et un pour blesser, avant de passer au tir suivant. Les tirs de Baliste à répétition ne tuent pas les cibles sur le coup et ne les jettent pas à terre",
+        "etat": "engin"
+    },
+    {
+        "nom": "Tir Indirect",
+        "effet": "Un Trébuchet tire toujours en utilisant la règle Tir de volée, avec une portée de 12\"à 96\".",
+        "etat": "engin"
+    },
+    {
+        "nom": "Courte portée",
+        "effet": "Une Baliste à répétition tire jusqu'à 24\" au lieu de 48\".",
+        "etat": "engin"
+    },
+    {
+        "nom": "Munitions Enflammées",
+        "effet": "Si l'Engin de Siège touche une cible de siège, le joueur qui tire peut relancer les jets pour Blesser donnant 1.",
+        "etat": "engin"
+    },
+    {
+        "nom": "Air d'Effet",
+        "effet": ": Si un Trébuchet touche une cible sur un champ de bataille, toutes les figurines à 2\" de la cible subissent une touche de Force 5 et sont jetées à terre (ces touches additionnelles ne tuent pas sur le coup).",
+        "etat": "engin"
+    },
+    {
+        "nom": "Briseur de Mur",
+        "effet": "Lorsqu'un Trébuchet jette un dé pour Blesser contre une cible inanimée, le joueur peut jeter deux dés et garder le résultat le plus haut.",
+        "etat": "engin"
+    },
+    {
+        "nom": "Maître des Embuscades",
+        "effet": "Dans les scénarios où vous devez jeter un dé pour déterminer l'arrivée de vos troupes, vous pouvez modifier le résultat du jet de Renforts de la troupe de Madril de +1 ou -1. Si Madril est déjà sur la table, toutes les troupes de la liste d'armée peuvent bénéficier de ce bonus dans leur jet de Renforts. \n\nDans les scénarios où vous devez jeter un dé pour savoir sur quel bord de table votre troupe se déploie, vous pouvez modifier le résultat du dé de +1 ou -1.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Coup Puissant",
+        "effet": "Pour chaque coup porté touchant au but (non sauvé par des points de Destin) en combat rapproché, cette figurine inflige 2 Blessures au lieu d'une seule.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Esprit brisé",
+        "effet": "Au début de chaque tour, avant de déterminer l'Initiative, le joueur contrôlant Denethor doit lui faire passer un test de Bravoure. S'il réussit, rien ne se passe. Sinon, Denethor passe pour la durée du tour sous le contrôle du joueur adverse. Néanmoins, les figurines amies ne peuvent pas cibler Denethor avec des tirs ou des pouvoirs magiques susceptibles de le blesser, ni lui porter de coups lorsqu'elles remportent un combat contre lui. Si Boromir fait partie de la même armée, Denethor réussit automatiquement tous ses tests de Bravoure tant que Boromir est en vie. S'il meurt, Denethor rate automatiquement le premer test de Bravoure suivant la mort de Boromir.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Cape Elfique",
+        "effet": "Une figurine portant une Cape Elfique profite de la règle spéciale Discrétion.\n\nDiscrétion (PASSIF): \nUne figurine discrète partiellement cachée par un décor n'est pas du tout visible par l'ennemi, sauf si celui-ci est à moins de 6\". La figurine paraît en effet se fondre dans le paysage. Ainsi la Discrétion évite d'être pris pour cible par une charge, un tir, un Pouvoir Magique ou toute autre Règle Spéciale, tant que la ligne de vue n'est pas complètement dégagée ou que l'adversaire ne s'est pas rapproché suffisamment.\nSur une figurine de Cavalerie, la Discrétion n'a pas d'effet.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Les rênes du Gondor sont à moi, et à personne d'autre !",
+        "effet": "Si votre armée comprend Denethor, il doit être votre général, à moins que votre armée n'inclue Aragorn, le Roi Elessar.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Arc",
+        "effet": "Portée 24\" Force 2",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Arc Elfique",
+        "effet": "Portée 24\" Force 3",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Tir Léthal",
+        "effet": "Chaque tour, quand il tire avec son Arc, Anborn peut dépenser un point de Puissance sans réduire sa réserve (même s'il n'en a plus aucun) pour modifier le résultat soit d'un jet pour Toucher, soit d'un jet de Trajectoire, soit d'un jet pour Blesser.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Rechargement Rapide",
+        "effet": "Lorsque vous tirez avec un Engin de Siège avec cette amélioration, le jour qui tire jette 2D6 a lieu d'un et choisit le plus haut résultat pour déterminer le nombre de tirs.",
+        "etat": "amélioration"
+    },
+    {
+        "nom": "Cor du Gondor",
+        "effet": "Boromir peut souffler dans son Cor au début d'un combat dès lors qu'il est en infériorité numérique à au moins 2 contre 1. Le combattant ennemi ayant la plus haute valeur de Bravoure doit alors passer un test de bravoure. S'il le réussit, le combat se déroule normalement. Sinon, Boromir gagne automatiquement le combat et peut porter normalement ses attaques.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Lance de cavalerie",
+        "effet": "Une figurine de cavalerie qui a une Lance de Cavalerie reçoit un bonus de +1 pour Blesser lorsqu'elle a chargé pendant le tour. Veuillez noter que dans le cas où deux jets sont requis pour blesser, le bonus s'applique au deux jets. Une figurine de Cavalerie avec une Lance de Cavalerie obtient ce bonus même si elle a chargé une figurine de Cavalerie, sauf si elle a chargé àtravers un terrain difficile.",
+        "etat": "equipement"
+    },
+    {
+        "nom": "Bannière de Minas Tirith",
+        "effet": "La Bannière de Minas Tirith compte comme une Bannière avec une portée de 6\". De plus, Boromir et tous les Guerriers du Gondor alliés à 6\" autour de lui reçoivent un bonus de +1 à leur compétence de Combat. Ce bonus est cumulatif avec d'autres. Boromir ne souffre pas du malus de -1 aux jets de Duel lorsqu'il porte la Bannière de Minas Tirith. Il ne peut pas porter la Bannière s'il porte une Lance de Cavalerie.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Pour la Défense du Roi",
+        "effet": "Tant qu'il est à moins de 3\" de Denethor ou d'Aragorn, Roi Elessar, Hurin gagne la règle spéciale Sans Peur et peut relancer un simple D6 lors de son Jet de Duel.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Ligne de Commandement",
+        "effet": "Si le Général de votre armée est un Héros du Gondor, votre adversaire ne peut remporter aucun Point de Victoire pour l'avoir tué tant que Hurin est en vie et sur le champ de bataille.",
+        "etat": "passif"
+    },
+    {
+        "nom": "Créature des Bois",
+        "effet": "Une figurine d'Infanterie dotée de cette Règle Spéciale peut se déplacer à travers les bois et les forêts considérés terrains difficiles, comme s'il s'agissait d'étendues dégagées. Notez que cela ne veut pas dire que les Créatures des Bois réussissent automatiquement les tests d'Escalade, Saut et Franchissement d'Obstacles qu'elles sont amenées à effectuer dans ces zones, ni qu'elles peuvent passer outre les troncs d'arbres, elles devront slalomer comme tout le monde.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Garde du Corps",
+        "effet": "Tout Guerrier ou Héros Garde du Corps protège automatiquement le Héros de plus haut rang issu de la même liste d'armée que lui (mais pas un Héros allié grâce à la matrice). S'il y a plusieurs Héros de rang similaire éligibles, alors le joueur concerné peut choisir l'un d'entre eux comme étant le meneur à protéger par tout le monde. Tant que ce Héros est en vie, le possesseur de cette règle réussit automatiquement tous ses tests de Bravoure.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Mur de Boucliers",
+        "effet": "Si cette figurine est armée d'un Bouclier, et est en contact socle à socle avec deux figurines ou plus n'étant pas à terre et disposant elles aussi de la Règle Spéciale Mur de Boucliers (et de Boucliers), alors cette figurine gagne un bonus de +1 en Défense, tant qu'elle reste au contact des deux autres. Ce bonus est réservé à l'Infanterie.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Debout, Cavaliers de Théoden !",
+        "effet": "Si cette figurine est à moins de 12\" de Théoden et qu'elle a le mot-clef Cavalerie, alors elle reçoit un bonus de +1 à sa valeur de Combat pendant un tour où elle Charge.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Tourbillon de Lames",
+        "effet": "Si Orophin obtient un ou plusieurs 6 naturels lors de ses jets de Duel, alors il peut doubler une Attaque pour blesser pour chaque 6 naturel précédemment obtenu. Ces Attaques doublées ne peuvent pas être encore doublées si Orophin affronte un ennemi bloqué par exemple.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Parade Eclair",
+        "effet": "Rumil peut forcer un adversaire avec lequel il est engagé en combat à relancer un de ses dés pour déterminer le vainqueur d'un combat. Cela doit être fait avant que d'éventuels points de Puissance soient utilisés par l'un des combattants.",
+        "etat": "actif"
+    },
+    {
+        "nom": "Lai Enchanté",
+        "effet": "Une Sentinelle peut chanter un chant par tour, tant qu'elle n'est pas engagée au combat. Cela fonctionne exactement comme un pouvoir magique, à la différence près qu'il est lancé et réussi automatiquement sans dépense de point de Volonté, et qu'il n'y a aucune possibilité d'y résister.",
+        "etat": "actif"
+    }
+]
